@@ -1,0 +1,14 @@
+/Users/lukaszjanus/Programowanie/Leetcode/AddTwoNumbers/bin/Debug/net10.0/AddTwoNumbers
+/Users/lukaszjanus/Programowanie/Leetcode/AddTwoNumbers/bin/Debug/net10.0/AddTwoNumbers.deps.json
+/Users/lukaszjanus/Programowanie/Leetcode/AddTwoNumbers/bin/Debug/net10.0/AddTwoNumbers.runtimeconfig.json
+/Users/lukaszjanus/Programowanie/Leetcode/AddTwoNumbers/bin/Debug/net10.0/AddTwoNumbers.dll
+/Users/lukaszjanus/Programowanie/Leetcode/AddTwoNumbers/bin/Debug/net10.0/AddTwoNumbers.pdb
+/Users/lukaszjanus/Programowanie/Leetcode/AddTwoNumbers/obj/Debug/net10.0/AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukaszjanus/Programowanie/Leetcode/AddTwoNumbers/obj/Debug/net10.0/AddTwoNumbers.AssemblyInfoInputs.cache
+/Users/lukaszjanus/Programowanie/Leetcode/AddTwoNumbers/obj/Debug/net10.0/AddTwoNumbers.AssemblyInfo.cs
+/Users/lukaszjanus/Programowanie/Leetcode/AddTwoNumbers/obj/Debug/net10.0/AddTwoNumbers.csproj.CoreCompileInputs.cache
+/Users/lukaszjanus/Programowanie/Leetcode/AddTwoNumbers/obj/Debug/net10.0/AddTwoNumbers.dll
+/Users/lukaszjanus/Programowanie/Leetcode/AddTwoNumbers/obj/Debug/net10.0/refint/AddTwoNumbers.dll
+/Users/lukaszjanus/Programowanie/Leetcode/AddTwoNumbers/obj/Debug/net10.0/AddTwoNumbers.pdb
+/Users/lukaszjanus/Programowanie/Leetcode/AddTwoNumbers/obj/Debug/net10.0/AddTwoNumbers.genruntimeconfig.cache
+/Users/lukaszjanus/Programowanie/Leetcode/AddTwoNumbers/obj/Debug/net10.0/ref/AddTwoNumbers.dll
