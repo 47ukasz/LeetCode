@@ -1,0 +1,15 @@
+/Users/lukaszjanus/Programowanie/Leetcode/LongestHarmoniousSubsequence/bin/Debug/net10.0/LongestHarmoniousSubsequence
+/Users/lukaszjanus/Programowanie/Leetcode/LongestHarmoniousSubsequence/bin/Debug/net10.0/LongestHarmoniousSubsequence.deps.json
+/Users/lukaszjanus/Programowanie/Leetcode/LongestHarmoniousSubsequence/bin/Debug/net10.0/LongestHarmoniousSubsequence.runtimeconfig.json
+/Users/lukaszjanus/Programowanie/Leetcode/LongestHarmoniousSubsequence/bin/Debug/net10.0/LongestHarmoniousSubsequence.dll
+/Users/lukaszjanus/Programowanie/Leetcode/LongestHarmoniousSubsequence/bin/Debug/net10.0/LongestHarmoniousSubsequence.pdb
+/Users/lukaszjanus/Programowanie/Leetcode/LongestHarmoniousSubsequence/obj/Debug/net10.0/LongestHarmoniousSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukaszjanus/Programowanie/Leetcode/LongestHarmoniousSubsequence/obj/Debug/net10.0/LongestHarmoniousSubsequence.AssemblyInfoInputs.cache
+/Users/lukaszjanus/Programowanie/Leetcode/LongestHarmoniousSubsequence/obj/Debug/net10.0/LongestHarmoniousSubsequence.AssemblyInfo.cs
+/Users/lukaszjanus/Programowanie/Leetcode/LongestHarmoniousSubsequence/obj/Debug/net10.0/LongestHarmoniousSubsequence.csproj.CoreCompileInputs.cache
+/Users/lukaszjanus/Programowanie/Leetcode/LongestHarmoniousSubsequence/obj/Debug/net10.0/LongestHarmoniousSubsequence.sourcelink.json
+/Users/lukaszjanus/Programowanie/Leetcode/LongestHarmoniousSubsequence/obj/Debug/net10.0/LongestHarmoniousSubsequence.dll
+/Users/lukaszjanus/Programowanie/Leetcode/LongestHarmoniousSubsequence/obj/Debug/net10.0/refint/LongestHarmoniousSubsequence.dll
+/Users/lukaszjanus/Programowanie/Leetcode/LongestHarmoniousSubsequence/obj/Debug/net10.0/LongestHarmoniousSubsequence.pdb
+/Users/lukaszjanus/Programowanie/Leetcode/LongestHarmoniousSubsequence/obj/Debug/net10.0/LongestHarmoniousSubsequence.genruntimeconfig.cache
+/Users/lukaszjanus/Programowanie/Leetcode/LongestHarmoniousSubsequence/obj/Debug/net10.0/ref/LongestHarmoniousSubsequence.dll
