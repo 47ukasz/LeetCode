@@ -3,28 +3,22 @@ namespace LeetCode.Solution;
 public class Solution {
     public int LengthOfLongestSubstring(string s)
     {
-        int r = 0;
-        string sb = "";
+        HashSet<char> sub = new();
+        int longest = 0;
+        int l = -1;
 
-        for (int i = 0; i <= s.Length - 1; i++)
+        for (int r = 0; r < s.Length; r++)
         {
-            int j = i;
-
-            while (j <= s.Length - 1 && !sb.Contains(s[j]))
+            while (sub.Contains(s[r]))
             {
-                sb += s[j];
-                j++;
+                l++;
+                sub.Remove(s[l]);
             }
 
-            r = sb.Length > r ? sb.Length : r;
-            sb = "";
+            sub.Add(s[r]);
+            longest = Math.Max(longest, sub.Count);
         }
 
-        return r;
-    }
-
-    public int LengthOfLongestSubstringV2(string s)
-    {
-        throw new NotImplementedException();
+        return longest;
     }
 }
